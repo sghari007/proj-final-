@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    margin-bottom: 30px;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+#about {
+    background-color: #798baa;
+    color: #343a40;
+    padding: 60px 0;
+}
+#about h2 {
+    color:#798baa;
+}
+#about p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+.about-container {
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+  }
+  footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  footer a:hover {
+    text-decoration: underline;
+  }
